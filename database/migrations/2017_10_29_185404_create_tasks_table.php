@@ -22,7 +22,7 @@ class CreateTasksTable extends Migration
         });
     }
 
-    /**
+    /**d
      * Reverse the migrations.
      *
      * @return void
